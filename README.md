@@ -7,7 +7,7 @@
 ## 2. Mục tiêu học GitHub
 - Hiểu cách Git quản lý phiên bản source code.
 - Biết cách sử dụng repository.
-- Biết cách quản lý branch và merge.
+- Thành thạo branch và merge trong Git.
 - Biết cách làm việc với GitHub.
 
 ## 3. Git Commands đã thực hành
