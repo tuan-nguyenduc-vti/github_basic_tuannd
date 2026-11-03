@@ -8,6 +8,6 @@ GitHub giúp chia sẻ và cộng tác trên lịch sử đó
 3. 5 lệnh cơ bản:
 - git init: khởi tạo local
 - git add: đưa thay đổi vào staging area để chuẩn bị commit
-- git commit: lưu một điểm thay đổi kèm mô tả
+- git commit: đẩy code lên GitHub
 - git push: đẩy branch lên GitHub
 - git pull: lấy thay đổi mới nhất từ remote
