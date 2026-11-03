@@ -9,3 +9,14 @@
 - Biết cách sử dụng repository.
 - Biết cách quản lý branch và merge.
 - Biết cách làm việc với GitHub.
+
+## 3. Git Commands đã thực hành
+
+| Command | Ý nghĩa |
+|---|---|
+| git init | Khởi tạo repository |
+| git add | Đưa file vào staging area |
+| git commit | Lưu phiên bản |
+| git status | Kiểm tra trạng thái |
+| git log | Xem lịch sử commit |
+| git push | Đẩy commit lên remote |
