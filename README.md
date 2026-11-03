@@ -20,3 +20,9 @@
 | git status | Kiểm tra trạng thái |
 | git log | Xem lịch sử commit |
 | git push | Đẩy commit lên remote |
+
+## 4. Git Branch
+
+- Branch giúp phát triển tính năng độc lập.
+- Có thể tạo nhiều branch trong một repository.
+- Merge giúp kết hợp thay đổi giữa các branch.
