@@ -1,7 +1,7 @@
 # GitHub Basic - TuanND
 
 ## 1. Giới thiệu
-- Tên: TuanND
+- PIC: TuanND
 - Mục tiêu: Tìm hiểu và thực hành Git, GitHub.
 
 ## 2. Mục tiêu học GitHub
