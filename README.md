@@ -26,3 +26,5 @@
 - Branch giúp phát triển tính năng độc lập.
 - Có thể tạo nhiều branch trong một repository.
 - Merge giúp kết hợp thay đổi giữa các branch.
+
+Project status: Completed
